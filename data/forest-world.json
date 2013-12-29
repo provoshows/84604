@@ -1,0 +1,52 @@
+{
+	"Infobox": {
+		"Name": "Forest World",
+		"Place of origin": "Provo, Utah",
+		"Genres": [""],
+		"Labels": "",
+		"Years active": "-2012",
+		"Websites": {"bandcamp": "http://forestworld.bandcamp.com/", "facebook": "https://www.facebook.com/pages/Hot-Parents/29569588389", "provoshows": "http://provoshows.com/tagged/forest+world", "tumblr": "http://forestworld.tumblr.com/", "wordpress": "forestworld.wordpress.com/"},
+		"Members": ["Samantha Dickens", "Sean Ivins"],
+		"Associated acts": [""]
+	},
+	"History": "Forest World''' was a band from Provo, Utah.",
+	"Discography": [
+		{"Release": {
+			"Name": "Ruins",
+			"Release date": "2008",
+			"References": ["http://forestworld.bandcamp.com/album/ruins"]
+		}},
+		{"Release": {
+			"Name": "Super Bright Skullz",
+			"Release date": "2009",
+			"References": ["http://forestworld.bandcamp.com/album/super-bright-skullz"]
+		}},
+		{"Release": {
+			"Name": "Fvtvre",
+			"Release date": "2009",
+			"References": ["http://forestworld.bandcamp.com/album/fvtvre"]
+		}},
+		{"Release": {
+			"Name": "The Dr. Wayne EP",
+			"Release date": "2009",
+			"References": ["http://forestworld.bandcamp.com/album/dr-wayne-forest-world-hot-parents"]
+		}},
+		{"Release": {
+			"Name": "MMX",
+			"Release date": "2010",
+			"References": ["http://forestworld.bandcamp.com/album/mmx"]
+		}},
+		{"Release": {
+			"Name": "Delete Forever EP",
+			"Release date": "2011",
+			"References": ["http://forestworld.bandcamp.com/album/delete-forever-ep"]
+		}}
+	],
+	"Shows": "",
+	"References": [
+		{
+			"Content": "“Forest World 'Jodie Jensen',” Vimeo video, 0:11, posted by “Chris Duce,” https://vimeo.com/11501223."
+		}
+	],
+	"Categories": ["bands"]
+}
