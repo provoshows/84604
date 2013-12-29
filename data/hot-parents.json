@@ -1,0 +1,32 @@
+{
+	"Infobox": {
+		"Name": "Hot Parents",
+		"Place of origin": "Provo, Utah",
+		"Genres": ["electro rock"],
+		"Labels": null,
+		"Years active": null,
+		"Websites": {
+			"facebook": "https://www.facebook.com/pages/Hot-Parents/29569588389",
+			"myspace": "https://www.myspace.com/hotparentsband",
+			"provoshows": "http://provoshows.com/tagged/hot+parents"
+			},
+		"Members": ["Chris Duce", "Jeremy Warner"],
+		"Associated acts": null
+	},
+	"History": "Hot Parents is an electro rock band from Provo, Utah.",
+	"Discography": [
+		{"Release": {
+			"Name": "The Dr. Wayne EP",
+			"Release date": "2009",
+			"References": ["http://forestworld.bandcamp.com/album/dr-wayne-forest-world-hot-parents"]
+		}}
+	],
+	"Shows": null,
+	"References": [
+		{
+			"Content": "“Hot Parents- Face in the Window,” YouTube video, 2:19, posted by 'Chris Duce,' March 28, 2009, https://www.youtube.com/watch?v=pPTDqZSfcro.",
+			"Content": "“HOT PARENTS NEW ALBUM THIS SUMMER,” YouTube video, 0:11, posted by 'Chris Duce,' April 26, 2009, https://www.youtube.com/watch?v=U6QMURQ9X-M."
+		}
+	],
+	"Categories": ["bands", "electro rock"]
+}
