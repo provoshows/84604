@@ -1,0 +1,15 @@
+html {
+	font-size: 16px;
+}
+body {
+	padding: 1em 2em;
+	font-family: Helvetica, Arial, san-serif;
+}
+.band {
+	background: #ccc;
+	padding: 1em 0em;
+	list-style: none;
+}
+.band li {
+	padding: 1em;
+}
