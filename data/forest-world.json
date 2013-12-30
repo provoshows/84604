@@ -2,12 +2,12 @@
 	"Infobox": {
 		"Name": "Forest World",
 		"Place of origin": "Provo, Utah",
-		"Genres": [""],
-		"Labels": "",
+		"Genres": null,
+		"Labels": null,
 		"Years active": "-2012",
 		"Websites": {"bandcamp": "http://forestworld.bandcamp.com/", "facebook": "https://www.facebook.com/pages/Hot-Parents/29569588389", "provoshows": "http://provoshows.com/tagged/forest+world", "tumblr": "http://forestworld.tumblr.com/", "wordpress": "forestworld.wordpress.com/"},
 		"Members": ["Samantha Dickens", "Sean Ivins"],
-		"Associated acts": [""]
+		"Associated acts": null
 	},
 	"History": "Forest World''' was a band from Provo, Utah.",
 	"Discography": [
@@ -42,7 +42,7 @@
 			"References": ["http://forestworld.bandcamp.com/album/delete-forever-ep"]
 		}}
 	],
-	"Shows": "",
+	"Shows": null,
 	"References": [
 		{
 			"Content": "“Forest World 'Jodie Jensen',” Vimeo video, 0:11, posted by “Chris Duce,” https://vimeo.com/11501223."

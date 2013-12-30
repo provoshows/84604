@@ -2,16 +2,16 @@
 	"Infobox": {
 		"Name": "90's Television",
 		"Place of origin": "Provo, Utah",
-		"Genres": [""],
-		"Labels": "",
-		"Years active": "",
+		"Genres": null,
+		"Labels": null,
+		"Years active": null,
 		"Websites": {"provoshows": "http://provoshows.com/tagged/90s+Television"},
-		"Members": [""],
-		"Associated acts": [""]
+		"Members": null,
+		"Associated acts": null,
 	},
 	"History": "90's Television was a band in Provo, Utah.",
-	"Discography": "",
-	"Shows": "",
-	"References": "",
+	"Discography": null,
+	"Shows": null,
+	"References": null,
 	"Categories": ["bands"]
 }
