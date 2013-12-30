@@ -1,14 +1,12 @@
 {
-	"Infobox": {
-		"Name": "Abby Normal",
-		"Place of origin": "Provo, Utah",
-		"Genres": null,
-		"Labels": null,
-		"Years active": null,
-		"Websites": {"provoshows": "http://provoshows.com/tagged/abby+normal"},
-		"Members": null,
-		"Associated acts": null
-	},
+	"Name": "Abby Normal",
+	"Place of origin": "Provo, Utah",
+	"Genres": null,
+	"Labels": null,
+	"Years active": null,
+	"Websites": {"provoshows": "http://provoshows.com/tagged/abby+normal"},
+	"Members": null,
+	"Associated acts": null,
 	"History": "Abby Normal was a band in Provo, Utah.",
 	"Discography": null,
 	"Shows": null,

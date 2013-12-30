@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>84604.org / Aberdeen</title>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<link href="../css/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>84604.org / Aberdeen</h1>
+<div class="box">
+</div>
+<script type="text/javascript">
+  $.getJSON( "../data/aberdeen.json", function( data ) {
+  var items = [];
+  $.each( data, function( key, val ) {
+    items.push( "<li id='" + key + "'>" + "<strong>" + key + ": </strong>" + val + "</li>" );
+  });
+ 
+  $( "<ul/>", {
+    "class": "band",
+    html: items.join( "" )
+  }).appendTo( ".box" );
+});
+</script>
+</body>
+</html>

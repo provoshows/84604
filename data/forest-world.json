@@ -1,14 +1,12 @@
 {
-	"Infobox": {
-		"Name": "Forest World",
-		"Place of origin": "Provo, Utah",
-		"Genres": null,
-		"Labels": null,
-		"Years active": "-2012",
-		"Websites": {"bandcamp": "http://forestworld.bandcamp.com/", "facebook": "https://www.facebook.com/pages/Hot-Parents/29569588389", "provoshows": "http://provoshows.com/tagged/forest+world", "tumblr": "http://forestworld.tumblr.com/", "wordpress": "forestworld.wordpress.com/"},
-		"Members": ["Samantha Dickens", "Sean Ivins"],
-		"Associated acts": null
-	},
+	"Name": "Forest World",
+	"Place of origin": "Provo, Utah",
+	"Genres": null,
+	"Labels": null,
+	"Years active": "-2012",
+	"Websites": {"bandcamp": "http://forestworld.bandcamp.com/", "facebook": "https://www.facebook.com/pages/Hot-Parents/29569588389", "provoshows": "http://provoshows.com/tagged/forest+world", "tumblr": "http://forestworld.tumblr.com/", "wordpress": "forestworld.wordpress.com/"},
+	"Members": ["Samantha Dickens", "Sean Ivins"],
+	"Associated acts": null,
 	"History": "Forest World''' was a band from Provo, Utah.",
 	"Discography": [
 		{"Release": {
