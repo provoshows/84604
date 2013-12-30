@@ -1,9 +1,9 @@
 html {
 	font-size: 16px;
+	background: url(../images/84604_sm.png) no-repeat fixed 1em 1em;
 }
 body {
-	padding: 1em 2em;
-	background: url(../images/84604.png) no-repeat top center;
+	padding: 2.3em 7em;
 	font-family: Consolas, monospace;
 }
 .band {
