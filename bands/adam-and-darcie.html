@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>84604.org / Adam and Darcie</title>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<link href="../css/page.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>Adam and Darcie</h1>
+<div class="box">
+</div>
+<script type="text/javascript">
+  $.getJSON( "../data/adam-and-darcie.json", function( data ) {
+  var items = [];
+  $.each( data, function( key, val ) {
+    items.push( "<li id='" + key + "'>" + "<strong>" + key + ": </strong>" + val + "</li>" );
+  });
+ 
+  $( "<ul/>", {
+    "class": "band",
+    html: items.join( "" )
+  }).appendTo( ".box" );
+});
+</script>
+</body>
+</html>
