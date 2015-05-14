@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>Abby Normal</h1>
+<a class="back" href="../index.html">&larr; Back</a>
 <div class="box">
 </div>
 <script type="text/javascript">
@@ -16,7 +17,7 @@
   $.each( data, function( key, val ) {
     items.push( "<li id='" + key + "'>" + "<strong>" + key + ": </strong>" + val + "</li>" );
   });
- 
+
   $( "<ul/>", {
     "class": "band",
     html: items.join( "" )

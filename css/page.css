@@ -1,9 +1,8 @@
 html {
 	font-size: 16px;
-	background: url(../images/84604_sm.png) no-repeat fixed 1em 1em;
 }
 body {
-	padding: 2.3em 7em;
+	padding: 1em 2em;
 	font-family: Consolas, monospace;
 }
 .band {
@@ -13,4 +12,9 @@ body {
 }
 .band li {
 	padding: 1em;
+}
+
+.back {
+	float: left;
+	display: block;
 }
