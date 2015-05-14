@@ -17,4 +17,5 @@ body {
 .back {
 	float: left;
 	display: block;
+	height: 2.5em;
 }
